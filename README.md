@@ -8,11 +8,12 @@ The marketing team has prepared five possible perks in collaboration with 3rd pa
 
 The available perks are:
 
-free hotel meal
-free checked bags
-no cancellation fees
-exclusive discounts
-1 night free stay for the flights
+- free hotel meal
+- free checked bags
+- no cancellation fees
+- exclusive discounts
+- 1 night free stay for the flights
+
 This project aims to segment users of the TravelTide so that they react the best to their assigned perk.
 
 ## Description
