@@ -1,5 +1,4 @@
 
--- Testing version control
 WITH sessions_2023 AS (
     SELECT *
     FROM sessions s
